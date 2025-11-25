@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C283%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C290%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,7 +91,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 18:55:21 UTC
+ Last Updated on 25/11/2025 18:53:28 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
