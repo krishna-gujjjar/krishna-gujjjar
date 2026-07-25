@@ -11,6 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C252%20hrs%2045%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 946.1 kB Used in GitHub's Storage 
@@ -23,6 +25,56 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   37.05 % 
+🌃 Evening                1783 commits        ██████████░░░░░░░░░░░░░░░   41.65 % 
+🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   678 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               21 hrs 51 mins      ██████████████████░░░░░░░   72.28 % 
+JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 28 mins      ████████████████████████░   94.20 % 
+Xcode                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+🐱‍💻 Projects: 
+chabi                    14 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.36 % 
+Chabi-Partner-App        11 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   38.67 % 
+zenpaws                  3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+k-academics              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+KTH-Edusity-Lms-App      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Mac                      19 hrs 47 mins      ████████████████░░░░░░░░░   65.48 % 
+Windows                  10 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.52 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -40,7 +92,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:59:01 UTC
+ Last Updated on 25/07/2026 19:47:34 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
