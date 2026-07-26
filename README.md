@@ -52,27 +52,27 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               21 hrs 51 mins      ██████████████████░░░░░░░   72.28 % 
-JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               19 hrs 39 mins      ██████████████████░░░░░░░   70.76 % 
+JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 28 mins      ████████████████████████░   94.20 % 
-Xcode                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  26 hrs 1 min        ███████████████████████░░   93.69 % 
+Xcode                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-chabi                    14 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.36 % 
-Chabi-Partner-App        11 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   38.67 % 
-zenpaws                  3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-k-academics              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+chabi                    14 hrs 37 mins      █████████████░░░░░░░░░░░░   52.66 % 
+Chabi-Partner-App        9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+zenpaws                  3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+k-academics              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 KTH-Edusity-Lms-App      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      19 hrs 47 mins      ████████████████░░░░░░░░░   65.48 % 
-Windows                  10 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.52 % 
+Mac                      17 hrs 20 mins      ████████████████░░░░░░░░░   62.42 % 
+Windows                  10 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   37.58 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:47:34 UTC
+ Last Updated on 26/07/2026 19:47:44 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
