@@ -11,11 +11,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C252%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C434%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 946.1 kB Used in GitHub's Storage 
+> 📦 946.7 kB Used in GitHub's Storage 
  > 
 > 🏆 78 Contributions in the Year 2026
  > 
@@ -28,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌃 Evening                1783 commits        ██████████░░░░░░░░░░░░░░░   41.65 % 
-🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+🌞 Morning                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
+🌃 Evening                1787 commits        ██████████░░░░░░░░░░░░░░░   41.70 % 
+🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   678 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Sunday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 
 
@@ -52,27 +54,47 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 hrs 39 mins      ██████████████████░░░░░░░   70.76 % 
-JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               19 hrs 3 mins       ████████████████████░░░░░   79.39 % 
+JSON                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Swift                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 1 min        ███████████████████████░░   93.69 % 
-Xcode                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  22 hrs 15 mins      ███████████████████████░░   92.70 % 
+Xcode                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-chabi                    14 hrs 37 mins      █████████████░░░░░░░░░░░░   52.66 % 
-Chabi-Partner-App        9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-zenpaws                  3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-k-academics              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-KTH-Edusity-Lms-App      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+chabi                    14 hrs 37 mins      ███████████████░░░░░░░░░░   60.91 % 
+Chabi-Partner-App        9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
+zenpaws                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+k-academics              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+KTH-Edusity-Lms-App      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      17 hrs 20 mins      ████████████████░░░░░░░░░   62.42 % 
-Windows                  10 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   37.58 % 
+Mac                      13 hrs 34 mins      ██████████████░░░░░░░░░░░   56.53 % 
+Windows                  10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   43.47 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 mins (0.42%)
+
+✍️ 0 lines written by AI, 2,020 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +114,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:47:44 UTC
+ Last Updated on 27/07/2026 20:08:33 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
