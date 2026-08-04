@@ -54,25 +54,25 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 hrs 34 mins      ████████████████████░░░░░   78.09 % 
-Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Rust                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-CSS                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               23 hrs 15 mins      ████████████████████░░░░░   78.38 % 
+JSON                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Rust                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+CSS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 49 mins      ████████████████████████░   95.07 % 
-Xcode                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  28 hrs 56 mins      ████████████████████████░   97.52 % 
+Xcode                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Notes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-chabi                    21 hrs 18 mins      █████████████████████░░░░   85.00 % 
-zenpaws                  2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Chabi-Partner-App        1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+chabi                    26 hrs 25 mins      ██████████████████████░░░   89.02 % 
+zenpaws                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Chabi-Partner-App        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  21 hrs 14 mins      █████████████████████░░░░   84.77 % 
-Mac                      3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Windows                  26 hrs 21 mins      ██████████████████████░░░   88.82 % 
+Mac                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:47:23 UTC
+ Last Updated on 04/08/2026 20:12:43 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
