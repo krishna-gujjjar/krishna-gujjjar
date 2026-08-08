@@ -11,9 +11,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C473%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C476%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,49 +54,50 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               15 hrs 1 min        ██████████████████░░░░░░░   70.73 % 
-JSON                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript               16 hrs 3 mins       █████████████████░░░░░░░░   68.63 % 
+JSON                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 26 mins      ████████████████████████░   96.29 % 
-Xcode                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  22 hrs 25 mins      ████████████████████████░   95.87 % 
+Xcode                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-chabi                    20 hrs 24 mins      ████████████████████████░   96.10 % 
-Chabi-Partner-App        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-my-heroui-native-app     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+chabi                    22 hrs 34 mins      ████████████████████████░   96.46 % 
+Chabi-Partner-App        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+my-heroui-native-app     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Windows                  20 hrs 33 mins      ████████████████████████░   96.82 % 
-Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Windows                  22 hrs 43 mins      ████████████████████████░   97.11 % 
+Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (12.6%)
+⏱ AI Coding Time: 4 hrs 4 mins (17.44%)
 
-✍️ 499 lines written by AI, 13,827 lines written by hand (3.48% AI-written)
+✍️ 517 lines written by AI, 13,908 lines written by hand (3.58% AI-written)
 
-🔤 16,011,150 Input Tokens, 87,848 Output Tokens
+🔤 18,633,802 Input Tokens, 104,145 Output Tokens
 
-💵 $49.35 Estimated AI Cost This Week
+💵 $63.55 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 35 AI Prompts
+🧠 8 AI Sessions, 62 AI Prompts
 
-Deepseek                 510 lines           ███████████████████████░░   93.41 % 
-Claude-Code              36 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Deepseek                 510 lines           ███████████████████████░░   90.43 % 
+Claude-Code              54 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.48% of written lines came from AI
-📝 Concise Prompter — average 361 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.13% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.58% of written lines came from AI
+📝 Concise Prompter — average 297 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 99.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +117,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:35:02 UTC
+ Last Updated on 08/08/2026 19:10:57 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
