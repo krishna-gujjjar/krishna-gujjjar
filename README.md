@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C481%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C484%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,31 +54,31 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 hrs 57 mins      ███████████████████░░░░░░   76.90 % 
-JSON                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               16 hrs 14 mins      ████████████████████░░░░░   80.58 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 4 mins       █████████████████████████   98.75 % 
-Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+VS Code                  19 hrs 51 mins      █████████████████████████   98.56 % 
+Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-chabi                    23 hrs 12 mins      █████████████████████████   99.35 % 
-my-heroui-native-app     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+chabi                    20 hrs              █████████████████████████   99.25 % 
+my-heroui-native-app     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Windows                  23 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 4 mins (17.47%)
+⏱ AI Coding Time: 4 hrs 4 mins (20.25%)
 
-✍️ 517 lines written by AI, 14,540 lines written by hand (3.43% AI-written)
+✍️ 517 lines written by AI, 14,913 lines written by hand (3.35% AI-written)
 
 🔤 18,633,802 Input Tokens, 104,145 Output Tokens
 
@@ -91,10 +91,10 @@ Claude-Code              54 lines            ██░░░░░░░░░�
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.43% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.35% of written lines came from AI
 📝 Concise Prompter — average 297 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 99.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +114,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:35:41 UTC
+ Last Updated on 11/08/2026 19:39:30 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
