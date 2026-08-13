@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C487%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C490%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,47 +54,46 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               18 hrs 36 mins      █████████████████████░░░░   82.62 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               18 hrs 18 mins      █████████████████████░░░░   83.29 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Groovy                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 14 mins      █████████████████████████   98.71 % 
-Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  21 hrs 47 mins      █████████████████████████   99.18 % 
+Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-chabi                    22 hrs 22 mins      █████████████████████████   99.33 % 
-my-heroui-native-app     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+chabi                    21 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 4 mins (18.12%)
+⏱ AI Coding Time: 2 hrs (9.13%)
 
-✍️ 517 lines written by AI, 15,114 lines written by hand (3.31% AI-written)
+✍️ 18 lines written by AI, 14,556 lines written by hand (0.12% AI-written)
 
-🔤 18,633,802 Input Tokens, 104,145 Output Tokens
+🔤 9,300,112 Input Tokens, 51,579 Output Tokens
 
-💵 $63.55 Estimated AI Cost This Week
+💵 $34.76 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 62 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
-Deepseek                 510 lines           ███████████████████████░░   90.43 % 
-Claude-Code              54 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Claude-Code              54 lines            █████████████████████████   100.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.31% of written lines came from AI
-📝 Concise Prompter — average 297 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 99.15% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.12% of written lines came from AI
+📝 Concise Prompter — average 307 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 99.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:42:06 UTC
+ Last Updated on 13/08/2026 19:38:52 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
