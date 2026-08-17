@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌃 Evening                1788 commits        ██████████░░░░░░░░░░░░░░░   41.61 % 
+🌞 Morning                713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                1785 commits        ██████████░░░░░░░░░░░░░░░   41.57 % 
 🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Sunday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 
 
@@ -54,20 +54,20 @@ Sunday                   467 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 55 mins      █████████████████████░░░░   85.58 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               14 hrs 30 mins      ██████████████████████░░░   86.86 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chabi                    17 hrs 26 mins      █████████████████████████   100.00 % 
+chabi                    16 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,11 +79,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
@@ -93,7 +93,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:59:38 UTC
+ Last Updated on 17/08/2026 19:11:18 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
