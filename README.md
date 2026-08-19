@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C501%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C501%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,20 +54,20 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 30 mins      ██████████████████████░░░   86.86 % 
-JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               11 hrs 59 mins      █████████████████████░░░░   84.66 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chabi                    16 hrs 42 mins      █████████████████████████   100.00 % 
+chabi                    14 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:10:38 UTC
+ Last Updated on 19/08/2026 19:06:35 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
