@@ -54,20 +54,20 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 59 mins      █████████████████████░░░░   84.66 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               9 hrs 8 mins        ██████████████████████░░░   86.99 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chabi                    14 hrs 10 mins      █████████████████████████   100.00 % 
+chabi                    10 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:06:35 UTC
+ Last Updated on 20/08/2026 19:14:05 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
