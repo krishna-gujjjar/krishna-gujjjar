@@ -54,22 +54,22 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 13 mins       ███████████████████░░░░░░   76.59 % 
-JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+TypeScript               6 hrs 33 mins       ███████████████████░░░░░░   76.41 % 
+JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chabi                    9 hrs 13 mins       ████████████████████████░   97.78 % 
-legix                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+chabi                    8 hrs 22 mins       ████████████████████████░   97.57 % 
+legix                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Windows                  8 hrs 22 mins       ██████████████████████░░░   88.83 % 
-Mac                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Windows                  8 hrs 22 mins       ████████████████████████░   97.57 % 
+Mac                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:19:47 UTC
+ Last Updated on 29/08/2026 01:54:26 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
