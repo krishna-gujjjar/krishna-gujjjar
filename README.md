@@ -54,22 +54,24 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 53 mins       █████████████████░░░░░░░░   69.04 % 
-JSON                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               3 hrs 26 mins       ██████████████████░░░░░░░   71.48 % 
+JSON                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 47 mins       █████████████████████████   99.56 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-chabi                    3 hrs 59 mins       ████████████████████████░   95.02 % 
-legix                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+chabi                    3 hrs 59 mins       █████████████████████░░░░   82.76 % 
+chabi-agent              37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+legix                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       ████████████████████████░   95.02 % 
-Mac                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Windows                  4 hrs 35 mins       ████████████████████████░   95.22 % 
+Mac                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +97,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:29:33 UTC
+ Last Updated on 31/08/2026 23:02:45 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
