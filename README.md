@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C517%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C520%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,25 +54,25 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 33 mins       ████████████████░░░░░░░░░   63.69 % 
-Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               10 hrs 31 mins      ███████████████████░░░░░░   74.39 % 
+Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 54 mins       ████████████████████░░░░░   79.24 % 
-Xcode                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  12 hrs 20 mins      ██████████████████████░░░   87.20 % 
+Xcode                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-chabi-agent              6 hrs 15 mins       ██████████████████░░░░░░░   71.78 % 
-chabi-partner            1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-chabi                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+chabi-agent              11 hrs 39 mins      █████████████████████░░░░   82.44 % 
+chabi-partner            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+chabi                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       ████████████████████░░░░░   79.24 % 
-Mac                      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Windows                  12 hrs 20 mins      ██████████████████████░░░   87.20 % 
+Mac                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:15:42 UTC
+ Last Updated on 03/09/2026 21:18:26 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
