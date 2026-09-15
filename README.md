@@ -27,6 +27,58 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                1785 commits        ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               3 hrs 51 mins       █████████████████████░░░░   82.42 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 6 mins        ██████████████████████░░░   87.62 % 
+Xcode                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+chabi                    4 hrs 6 mins        ██████████████████████░░░   87.63 % 
+chabi-partner            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+
+💻 Operating System: 
+Windows                  4 hrs 6 mins        ██████████████████████░░░   87.62 % 
+Mac                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:01:35 UTC
+ Last Updated on 15/09/2026 21:43:34 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
