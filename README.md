@@ -54,21 +54,21 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    40 mins             ████████████████████░░░░░   79.73 % 
-TypeScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Other                    2 hrs 38 mins       ███████████████████████░░   93.93 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-Xcode                    40 mins             ████████████████████░░░░░   79.70 % 
-VS Code                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Xcode                    2 hrs 38 mins       ███████████████████████░░   93.92 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-chabi-partner            40 mins             ████████████████████░░░░░   79.70 % 
-chabi                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+chabi                    2 hrs 8 mins        ███████████████████░░░░░░   76.14 % 
+chabi-partner            40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
 
 💻 Operating System: 
-Mac                      40 mins             ████████████████████░░░░░   79.73 % 
-Windows                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Mac                      2 hrs 38 mins       ███████████████████████░░   93.93 % 
+Windows                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:41:50 UTC
+ Last Updated on 18/09/2026 21:12:59 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
