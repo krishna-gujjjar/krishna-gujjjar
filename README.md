@@ -54,23 +54,21 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 16 mins       ████████████████████░░░░░   78.10 % 
-Dart                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    2 hrs 11 mins       █████████████████████░░░░   82.37 % 
+Dart                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Xcode                    2 hrs 4 mins        ██████████████████░░░░░░░   71.01 % 
-VS Code                  50 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Xcode                    1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
+VS Code                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 
 🐱‍💻 Projects: 
-chabi                    2 hrs 9 mins        ██████████████████░░░░░░░   73.74 % 
-flixmates_app            40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-chabi-partner            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+chabi                    1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
+flixmates_app            40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        ██████████████████░░░░░░░   71.01 % 
-Windows                  50 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Mac                      1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
+Windows                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +94,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:39:06 UTC
+ Last Updated on 23/09/2026 21:45:12 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
