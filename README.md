@@ -54,21 +54,22 @@ Sunday                   464 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 11 mins       █████████████████████░░░░   82.37 % 
-Dart                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    2 hrs 26 mins       █████████████████████░░░░   83.91 % 
+Dart                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Xcode                    1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
-VS Code                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Xcode                    2 hrs 14 mins       ███████████████████░░░░░░   76.80 % 
+VS Code                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 
 🐱‍💻 Projects: 
-chabi                    1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
-flixmates_app            40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+chabi                    1 hr 58 mins        █████████████████░░░░░░░░   68.06 % 
+flixmates_app            40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+chabi-partner            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        ███████████████████░░░░░░   74.58 % 
-Windows                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Mac                      2 hrs 14 mins       ███████████████████░░░░░░   76.80 % 
+Windows                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +95,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:45:12 UTC
+ Last Updated on 24/09/2026 21:46:46 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
