@@ -54,26 +54,26 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     8 hrs 57 mins       ████████████████████░░░░░   79.71 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Kotlin                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Dart                     8 hrs 57 mins       ████████████████████░░░░░   78.93 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Kotlin                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 38 mins      ████████████████████████░   94.54 % 
-Xcode                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+VS Code                  10 hrs 38 mins      ███████████████████████░░   93.63 % 
+Xcode                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-user         5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.91 % 
-kastrofyapp-astrologer   4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-Astroway-astrologer-app-m35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-chabi                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-chabi-partner            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+kastrofyapp-user         5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
+kastrofyapp-astrologer   4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.39 % 
+Astroway-astrologer-app-m35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+chabi                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+chabi-partner            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Windows                  10 hrs 38 mins      ████████████████████████░   94.54 % 
-Mac                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Windows                  10 hrs 38 mins      ███████████████████████░░   93.63 % 
+Mac                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:53:11 UTC
+ Last Updated on 06/10/2026 00:18:52 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
