@@ -54,25 +54,22 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-TypeScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Groovy                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Dart                     2 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.91 % 
+TypeScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Groovy                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        ████████████████████████░   97.89 % 
-Xcode                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-user         2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
-chabi                    1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-kastrofyapp-astrologer   1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-chabi-partner            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+kastrofyapp-user         2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
+chabi                    1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+kastrofyapp-astrologer   1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        ████████████████████████░   97.89 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +95,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:24:00 UTC
+ Last Updated on 13/10/2026 00:58:27 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
