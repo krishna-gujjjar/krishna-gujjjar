@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-gujjjar&style=for-the-badge&color=21c063)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C559%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C563%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,25 +54,25 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 31 mins       █████████████░░░░░░░░░░░░   50.92 % 
-TypeScript               1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Groovy                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Dart                     3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
+Groovy                   1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+YAML                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       ███████████████████████░░   93.22 % 
-Xcode                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+VS Code                  7 hrs 47 mins       ██████████████████████░░░   87.92 % 
+Xcode                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-user         3 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-kastrofyapp-astrologer   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-chabi                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-chabi-partner            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+kastrofyapp-user         5 hrs 24 mins       ███████████████░░░░░░░░░░   61.07 % 
+kastrofyapp-astrologer   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+chabi                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+chabi-partner            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 💻 Operating System: 
-Windows                  6 hrs 27 mins       ███████████████████████░░   93.22 % 
-Mac                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Windows                  7 hrs 47 mins       ██████████████████████░░░   87.92 % 
+Mac                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:56:34 UTC
+ Last Updated on 15/10/2026 21:43:15 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
