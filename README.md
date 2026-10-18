@@ -54,25 +54,25 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-Dart                     2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Groovy                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.66 % 
+Dart                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Groovy                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       ████████████████░░░░░░░░░   63.47 % 
-Xcode                    3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+VS Code                  4 hrs 56 mins       █████████████░░░░░░░░░░░░   52.50 % 
+Xcode                    4 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.50 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-user         4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.04 % 
-chabi                    3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-kastrofyapp-astrologer   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-chabi-partner            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+chabi                    4 hrs               ███████████░░░░░░░░░░░░░░   42.51 % 
+kastrofyapp-user         3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+kastrofyapp-astrologer   1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+chabi-partner            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Windows                  6 hrs 12 mins       ████████████████░░░░░░░░░   63.47 % 
-Mac                      3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+Windows                  4 hrs 56 mins       █████████████░░░░░░░░░░░░   52.50 % 
+Mac                      4 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.50 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:54:39 UTC
+ Last Updated on 18/10/2026 21:01:09 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
