@@ -54,25 +54,16 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-Dart                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-YAML                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Groovy                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Other                    4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████░░░░░░░░░░░░   51.41 % 
-Xcode                    4 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.59 % 
+Xcode                    4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chabi                    4 hrs               ███████████░░░░░░░░░░░░░░   43.49 % 
-kastrofyapp-user         3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
-kastrofyapp-astrologer   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-chabi-partner            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+chabi                    4 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████░░░░░░░░░░░░   51.41 % 
-Mac                      4 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.59 % 
+Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +89,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 21:51:28 UTC
+ Last Updated on 21/10/2026 21:59:00 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
