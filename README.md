@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-🌆 Daytime                1586 commits        █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌃 Evening                1787 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+🌞 Morning                707 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌆 Daytime                1584 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                1787 commits        ██████████░░░░░░░░░░░░░░░   41.67 % 
+🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Sunday                   466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Wednesday                623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Friday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Sunday                   458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 ```
 
 
@@ -54,24 +54,24 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 7 mins        ███████████████░░░░░░░░░░   60.17 % 
-Other                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Prolog                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Groovy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Dart                     3 hrs 7 mins        ███████████████░░░░░░░░░░   59.19 % 
+Other                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.21 % 
+Prolog                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████░░░░░░░░   69.40 % 
-Xcode                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+VS Code                  3 hrs 41 mins       █████████████████░░░░░░░░   69.89 % 
+Xcode                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-astrologer   2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.06 % 
-chabi                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
-kastrofyapp-user         1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+kastrofyapp-astrologer   2 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.30 % 
+chabi                    1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+kastrofyapp-user         1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████░░░░░░░░   69.40 % 
-Mac                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Windows                  3 hrs 41 mins       █████████████████░░░░░░░░   69.89 % 
+Mac                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,11 +83,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
@@ -97,7 +97,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:12:00 UTC
+ Last Updated on 26/10/2026 22:53:26 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
