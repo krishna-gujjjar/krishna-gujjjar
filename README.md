@@ -54,24 +54,24 @@ Sunday                   458 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     3 hrs 7 mins        ███████████████░░░░░░░░░░   58.80 % 
-Other                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Prolog                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Dart                     3 hrs 7 mins        █████████████████████░░░░   83.89 % 
+Prolog                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████░░░░░░░░   69.44 % 
-Xcode                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   99.07 % 
+Xcode                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-kastrofyapp-astrologer   2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
-chabi                    1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
-kastrofyapp-user         1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+kastrofyapp-astrologer   2 hrs 26 mins       ████████████████░░░░░░░░░   65.61 % 
+kastrofyapp-user         1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.14 % 
+chabi                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████░░░░░░░░   69.44 % 
-Mac                      1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Windows                  3 hrs 41 mins       █████████████████████████   99.07 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:35:17 UTC
+ Last Updated on 28/10/2026 22:49:27 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
