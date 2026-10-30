@@ -54,23 +54,22 @@ Sunday                   458 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java Properties          4 mins              ██████████░░░░░░░░░░░░░░░   38.79 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Groovy                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Dart                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Kotlin                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Java Properties          4 mins              ████████████████░░░░░░░░░   62.78 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████░░░░   82.20 % 
-Xcode                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+VS Code                  5 mins              ██████████████████░░░░░░░   71.19 % 
+Xcode                    2 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 
 🐱‍💻 Projects: 
-chabi                    7 mins              ███████████████░░░░░░░░░░   61.80 % 
-kastrofyapp-astrologer   4 mins              ██████████░░░░░░░░░░░░░░░   38.20 % 
+chabi                    7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████░░░░   82.20 % 
-Mac                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Windows                  5 mins              ██████████████████░░░░░░░   71.19 % 
+Mac                      2 mins              ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +95,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/krishna-gujjjar/krishna-gujjjar/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:58:23 UTC
+ Last Updated on 30/10/2026 22:38:02 UTC
 <!--END_SECTION:waka-->
 
 <table align="center" width="100%">
